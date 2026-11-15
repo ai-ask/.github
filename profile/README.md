@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/Email-helpfung@gmail.com-f0b429?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0a1f" />
   </a>
   <a href="https://github.com/ai-ask">
-    <img src="https://img.shields.io/badge/GitHub-ai-ask?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0a1f" />
+    <img src="https://img.shields.io/badge/GitHub-aiask-ask?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0a1f" />
   </a>
 </div>
 
