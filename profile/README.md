@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="image.png" alt="cover" />
-</p>
 
 <h1 align="center">AI-ASK</h1>
 
