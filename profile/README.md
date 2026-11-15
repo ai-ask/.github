@@ -5,7 +5,7 @@
 
 ---
 
-## Hi there 👋
+## 🌌 关于我 · About Me
 
 **Here are some ideas to get you started:**
 
@@ -14,34 +14,6 @@
 - 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 - 🍿 Fun facts - what does your team eat for breakfast?
 - 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-
-## 🌌 关于我 · About Me
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**中文**
-
-- 🔭 十项全能玄学术数工作站 **Horosa** 的作者 —— 覆盖 **紫微斗数 · 八字 · 占星 · 推运 · 印占 · 六壬 · 遁甲 · 太乙 · 六爻 · 风水 · 三式合一 · 数算 · 河洛理数 · 宿占 · 统摄法 · 金口诀 · 地占 · 塔罗 · 玄学史 · 数据库 · 天文馆 · 3D星盘** 等能力。
-- 🤖 让 AI「本地挂载一个玄学家」:`horosa-skill` 把术数能力离线赋给你的模型。
-- 🖥️ 跨平台交付:**macOS / Windows** 桌面端、**Apple Silicon** 原生、以及手机端适配。
-- 🙏 于旧星阁 Horosa 基础上改良制作,感谢 **爽哥**、**郑大哥** 与全体开发团队的贡献。
-
-</td>
-<td width="50%" valign="top">
-
-**English**
-
-- 🔭 Author of **Horosa** — an all-in-one Chinese metaphysics workstation covering **Ziwei · Bazi · Astrology · Progressions · Vedic · Liuren · Qimen · Taiyi · Liuyao · Fengshui · Sanshi Fusion · Numerology · Heluo · Lunar Mansions · Tongshe · Jinkoujue · Geomancy · Tarot · Metaphysics History · Database · Planetarium · 3D Charts**.
-- 🤖 `horosa-skill` mounts a *metaphysician* onto your local AI, fully offline-capable.
-- 🖥️ Ships cross-platform: macOS / Windows desktop, native Apple Silicon, and mobile.
-- 🙏 Built on the legacy Horosa — thanks to **爽哥**, **郑大哥** and the whole dev team.
-
-</td>
-</tr>
-</table>
 
 ## 🛠️ 技术栈 · Tech Stack
 
