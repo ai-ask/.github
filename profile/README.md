@@ -67,7 +67,5 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="阴阳相胜之术 昭昭乎进乎象矣" />
-</div>
+
 
