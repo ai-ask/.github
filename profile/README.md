@@ -2,9 +2,8 @@
   <img src="image.png" alt="cover" />
 </p>
 
-<h1 align="center">hand-on-openclaw</h1>
+<h1 align="center">AI-ASK</h1>
 
-<h3 align="center">《OpenClaw 中文安装与使用手册》</h3>
 
 从安装部署到初始化配置、ClawHub、联网、自动化与常用应用场景，帮助中文用户一步一步把 OpenClaw 真正用起来。
 
