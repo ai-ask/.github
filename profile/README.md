@@ -59,10 +59,10 @@
 ## 🔮 联系 · Connect
 
 <div align="center">
-  <a href="mailto:maxwelldhx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-maxwelldhx@gmail.com-f0b429?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0a1f" />
+  <a href="mailto:helpfung@gmail.com">
+    <img src="https://img.shields.io/badge/Email-helpfung@gmail.com-f0b429?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0a1f" />
   </a>
-  <a href="https://github.com/Horace-Maxwell">
+  <a href="https://github.com/ai-ask">
     <img src="https://img.shields.io/badge/GitHub-Horace--Maxwell-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0a1f" />
   </a>
 </div>
